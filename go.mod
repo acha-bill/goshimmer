@@ -6,9 +6,9 @@ require (
 	github.com/coreos/bbolt v1.3.3 // indirect
 	github.com/dgraph-io/badger/v2 v2.0.2
 	github.com/dgrijalva/jwt-go v3.2.0+incompatible
-	github.com/drand/drand v0.5.4
+	github.com/drand/drand v0.7.5
 	github.com/gobuffalo/packr/v2 v2.7.1
-	github.com/golang/protobuf v1.3.4
+	github.com/golang/protobuf v1.3.5
 	github.com/googollee/go-engine.io v1.4.3-0.20190924125625-798118fc0dd2
 	github.com/googollee/go-socket.io v1.4.3-0.20191204093753-683f8725b6d0
 	github.com/gorilla/websocket v1.4.1
@@ -27,7 +27,7 @@ require (
 	go.dedis.ch/kyber/v3 v3.0.12
 	go.uber.org/atomic v1.6.0
 	go.uber.org/zap v1.14.0
-	golang.org/x/crypto v0.0.0-20200302210943-78000ba7a073
+	golang.org/x/crypto v0.0.0-20200414173820-0848c9571904
 	golang.org/x/net v0.0.0-20200301022130-244492dfa37a
 	golang.org/x/tools v0.0.0-20200330040139-fa3cc9eebcfe // indirect
 	google.golang.org/grpc v1.28.1
